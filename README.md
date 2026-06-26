@@ -1,19 +1,171 @@
-<h1 align="center">Hi 👋, I'm AYUSH RAJ</h1>
-<h3 align="center">A passionate developer from India</h3>
+<h1 align="center">Hi 👋, I'm Ayush Raj</h1>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AyushRaj-005" alt="AyushRAj-005" /></a> </p>
+<h3 align="center">
+🚀 Full Stack Developer | C++ Programmer | DSA Enthusiast | Software Engineer Aspirant
+</h3>
 
-- 🔭 I’m currently working on **APPLICATION**
 
-- 👯 I’m looking to collaborate on **ANDROID APPS**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile;I+love+building+projects;Learning+DSA+and+Development;Future+Software+Engineer" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dynoo0604&show_icons=true&locale=en" alt="dynoo0604" /></p>
+<img align="right" alt="coding" width="350" 
+src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dynoo0604&" alt="dynoo0604" /></p>
+
+## 👨‍💻 About Me
+
+- 🔭 Currently working on **Web Development Projects**
+- 🌱 Learning **Advanced DSA, Backend Development & System Design**
+- 💻 Passionate about **Problem Solving and Software Development**
+- 🚀 Building projects to improve my development skills
+- 🤝 Open for collaboration and new opportunities
+- 📚 Always learning something new
+
+
+<br>
+
+
+## 🛠️ Languages & Tools
+
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=cpp,java,python,c,html,css,javascript,react,nodejs,express,mongodb,mysql,git,github,vscode,linux" />
+
+</p>
+
+
+<br>
+
+
+# 🚀 My Projects
+
+
+## 🤖 AI Based Exam Monitoring System
+
+- AI powered online examination monitoring system
+- Frontend + Backend integrated application
+- Real time monitoring features
+
+
+## 💻 DSA Practice Repository
+
+- C++ implementations of Data Structures
+- Searching & Sorting Algorithms
+- LeetCode problem solutions
+
+
+## 🌐 Web Development Projects
+
+- Responsive websites
+- Full stack applications
+- Modern UI designs
+
+
+
+<br>
+
+
+# 📊 GitHub Stats
+
+
+<p align="center">
+
+<img width="48%" 
+src="https://github-readme-stats.vercel.app/api?username=AyushRaj-05&show_icons=true&theme=tokyonight"/>
+
+
+<img width="48%" 
+src="https://github-readme-streak-stats.herokuapp.com/?user=AyushRaj-05&theme=tokyonight"/>
+
+</p>
+
+
+
+<p align="center">
+
+<img width="45%"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushRaj-05&layout=compact&theme=tokyonight"/>
+
+</p>
+
+
+<br>
+
+
+# 🏆 GitHub Achievements
+
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=AyushRaj-05&theme=tokyonight&row=1&column=6"/>
+
+</p>
+
+
+
+<br>
+
+
+# 📈 Contribution Graph
+
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AyushRaj-05&theme=tokyo-night"/>
+
+</p>
+
+
+
+<br>
+
+
+# 🌐 Connect With Me
+
+
+<p align="left">
+
+<a href="https://linkedin.com">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+
+<a href="https://github.com/AyushRaj-05">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+
+</p>
+
+
+
+<br>
+
+
+# 👀 Profile Visitors
+
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=AyushRaj-05&label=Profile%20Views&color=blue&style=flat"/>
+
+</p>
+
+
+
+<br>
+
+
+<h2 align="center">
+
+⭐ Thanks for visiting my profile ⭐
+
+</h2>
+
+
+<p align="center">
+Keep Coding 🚀 Keep Learning 💻
+</p>
