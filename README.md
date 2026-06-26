@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ayush Raj</h1>
 
 <h3 align="center">
-🚀 Full Stack Developer | C++ Programmer | DSA Enthusiast | Software Engineer Aspirant
+🚀 Web/Android developer | Java Programmer | DSA Enthusiast | Software Engineer Aspirant
 </h3>
 
 
