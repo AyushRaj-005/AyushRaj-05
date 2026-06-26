@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm AYUSH RAJ</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dynoo0604" alt="dynoo0604" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AyushRaj-005" alt="AyushRAj-005" /></a> </p>
 
 - 🔭 I’m currently working on **APPLICATION**
 
