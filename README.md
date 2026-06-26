@@ -74,11 +74,11 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 <p align="center">
 
 <img width="48%" 
-src="https://github-readme-stats.vercel.app/api?username=AyushRaj-05&show_icons=true&theme=tokyonight"/>
+src="https://github-readme-stats.vercel.app/api?username=AyushRaj-005&show_icons=true&theme=tokyonight"/>
 
 
 <img width="48%" 
-src="https://github-readme-streak-stats.herokuapp.com/?user=AyushRaj-05&theme=tokyonight"/>
+src="https://github-readme-streak-stats.herokuapp.com/?user=AyushRaj-005&theme=tokyonight"/>
 
 </p>
 
@@ -87,7 +87,7 @@ src="https://github-readme-streak-stats.herokuapp.com/?user=AyushRaj-05&theme=to
 <p align="center">
 
 <img width="45%"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushRaj-05&layout=compact&theme=tokyonight"/>
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushRaj-005&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -97,10 +97,9 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushRaj-05&
 
 # 🏆 GitHub Achievements
 
-
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=AyushRaj-05&theme=tokyonight&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=AyushRaj-005&theme=algolia&no-frame=true&row=1&column=6"/>
 
 </p>
 
@@ -111,10 +110,9 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushRaj-05&
 
 # 📈 Contribution Graph
 
-
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AyushRaj-05&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AyushRaj-005&theme=github-dark"/>
 
 </p>
 
@@ -128,12 +126,12 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushRaj-05&
 
 <p align="left">
 
-<a href="https://linkedin.com">
+<a href="linkedin.com/in/ayusshraj">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
 
-<a href="https://github.com/AyushRaj-05">
+<a href="https://github.com/AyushRaj-005">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
