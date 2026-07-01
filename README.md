@@ -148,7 +148,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushRaj-005
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=AyushRaj-05&label=Profile%20Views&color=blue&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=AyushRaj-005&label=Profile%20Views&color=blue&style=flat"/>
 
 </p>
 
